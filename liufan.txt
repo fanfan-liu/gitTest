@@ -2,3 +2,4 @@ this is a test txt;
 the author is liufan;
 this is master origin;
 alksdjlaskflsak;
+this is bug change;
